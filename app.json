@@ -39,12 +39,12 @@
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "ShrutixMusicBot",
+      "value": "EnthemXmusicbot",
       "required": true
     },
     "UPSTREAM_REPO": {
       "description": "URL of your GitHub repository",
-      "value": "https://github.com/NoxxOP/ShrutiMusic",
+      "value": "https://github.com/enthemblack/EnthemMusicBot",
       "required": false
     },
     "STRING_SESSION": {
@@ -84,17 +84,17 @@
     },
     "INSTAGRAM": {
       "description": "Your Instagram profile link or Any Link",
-      "value": "https://instagram.com/yaduwanshi_nand",
+      "value": "https://instagram.com/nitish_cybersecurity",
       "required": false
     },
     "YOUTUBE": {
       "description": "Your YouTube channel link or Any Link",
-      "value": "https://youtube.com/@NandEditz",
+      "value": "https://youtube.com/@###",
       "required": false
     },
     "GITHUB": {
       "description": "Your GitHub profile link or Any Link",
-      "value": "https://github.com/NoxxOP",
+      "value": "https://github.com/enthemblack",
       "required": false
     },
     "DONATE": {
