@@ -16,7 +16,7 @@
 
 [![Support Channel](https://img.shields.io/badge/Support%20Channel-black?style=for-the-badge&logo=telegram)](https://t.me/enthemMusicbot)
 [![Support Group](https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=telegram)](https://t.me/EnthemMusicSupportChat)
-[![Owner](https://img.shields.io/badge/Owner-black?style=for-the-badge&logo=telegram)](https://t.me/WTF_WhyMeeh)
+[![Owner](https://img.shields.io/badge/Owner-black?style=for-the-badge&logo=telegram)](https://t.me/BlackEnthemOwner)
 
 [![Forks](https://img.shields.io/github/forks/enthemblack/EnthemMusicbot?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/enthemblack/EnthemMusicbot/fork)
 [![Stars](https://img.shields.io/github/stars/enthemblack/EnthemMusicbot?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/enthemblack/EnthemMusicbot/stargazers)
