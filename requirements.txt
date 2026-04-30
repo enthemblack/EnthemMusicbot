@@ -33,7 +33,7 @@ py-yt-search
 yt-dlp
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi , aka @NoxxOP
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 🔗 GitHub : https://github.com/enthemblack/EnthemMusicbot
+# 📢 Telegram Channel : https://t.me/EnthemSupport
 # ===========================================
 
