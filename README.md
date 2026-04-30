@@ -294,7 +294,7 @@ bash start
 
 **𝐌𝐚𝐢𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**
 
-[![NoxxOP](https://img.shields.io/badge/NoxxOP-black?style=for-the-badge&logo=github)](https://github.com/NoxxOP)
+[![NoxxOP](https://img.shields.io/badge/NoxxOP-black?style=for-the-badge&logo=github)](https://github.com/enthemblack)
 
 **𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨 𝐀𝐥𝐥 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫𝐬**
 
@@ -323,7 +323,7 @@ bash start
 
 ---
 
-<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-NoxxOP-orange?style=for-the-badge&logo=heart" alt="Made with love">
+<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-ENTHEM-orange?style=for-the-badge&logo=heart" alt="Made with love">
 
 ---
 
