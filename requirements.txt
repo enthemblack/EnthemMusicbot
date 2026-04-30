@@ -31,9 +31,9 @@ youtube-search
 youtube-search-python
 py-yt-search
 yt-dlp
-# ===========================================
-# ©️ 2025 Nand Yaduwanshi , aka @NoxxOP
+# ===========================================================
+# ©️ 2025 Nitish Sharma , Contact - @BlackEnthemOwner
 # 🔗 GitHub : https://github.com/enthemblack/EnthemMusicbot
 # 📢 Telegram Channel : https://t.me/EnthemSupport
-# ===========================================
+# ===========================================================
 
