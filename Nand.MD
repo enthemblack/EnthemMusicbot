@@ -1,37 +1,37 @@
-# 🎵 Shruti Music Bot 🎵
+# 🎵 𝓔𝓷𝓽𝓱𝓮𝓶𝓧_𝓜𝓾𝓼𝓲𝓬 🎵
 
 <p align="center">
   <img src="ShrutiMusic/assets/equalizer.svg" width="100%" height="500">
 </p>
 
 <div align="center">
-  <h1>🎵 Shruti Music Bot 🎵</h1>
+  <h1>🎵 𝓔𝓷𝓽𝓱𝓮𝓶𝓧_𝓜𝓾𝓼𝓲𝓬  🎵</h1>
   
   <p><b>A Powerful Telegram Music Bot to Play Songs in Voice Chats</b></p>
   
   <!-- Bold and vibrant badges with striking combinations -->
   <p>
-    <a href="https://t.me/ShrutiBots">
+    <a href="https://t.me/EnthemSupport">
       <img src="https://img.shields.io/badge/Support%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Support Channel">
     </a>
-    <a href="https://t.me/ShrutiBotSupport">
+    <a href="https://t.me/EnthemMusicSupport">
       <img src="https://img.shields.io/badge/Support%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000" alt="Support Group">
     </a>
-    <a href="https://t.me/WTF_WhyMeeh">
+    <a href="https://t.me/BlackEnthemOwner">
       <img src="https://img.shields.io/badge/Owner-FFFF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=8A2BE2" alt="Owner">
     </a>
   </p>
   
   <!-- Bold social stats with high contrast -->
   <p>
-    <a href="https://github.com/NoxxOP/ShrutiMusic/fork">
-      <img src="https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=FF1493&color=00CED1" alt="GitHub Forks">
+    <a href="https://github.com/enthemblack/EnthemMusicbot/fork">
+      <img src="https://img.shields.io/github/forks/enthemblack/EnthemMusicBot?style=social&logo=github&labelColor=FF1493&color=00CED1" alt="GitHub Forks">
     </a>
-    <a href="https://github.com/NoxxOP/ShrutiMusic/stargazers">
-      <img src="https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=FF4500&color=32CD32" alt="GitHub Stars">
+    <a href="https://github.com/enthemblack/EnthemMusicbot/stargazers">
+      <img src="https://img.shields.io/github/stars/enthemblack/EnthemMusicbot?style=social&logo=github&labelColor=FF4500&color=32CD32" alt="GitHub Stars">
     </a>
-    <a href="https://github.com/NoxxOP/ShrutiMusic/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=DC143C&color=FFD700" alt="GitHub Contributors">
+    <a href="https://github.com/enthemblack/EnthemMusicbot/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/enthemblack/EnthemMusicbot?style=social&logo=github&labelColor=DC143C&color=FFD700" alt="GitHub Contributors">
     </a>
   </p>
 </div>
@@ -43,7 +43,7 @@
 <div align="center">
   
   ### 🔥 Deploy to Heroku
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/enthemblack/EnthemMusicbot">
     <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-FF0080?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000080" width="280px" alt="Deploy to Heroku">
   </a>
   
